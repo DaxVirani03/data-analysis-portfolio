@@ -1,6 +1,6 @@
 # Data Analysis Portfolio 👨‍💻
 
-**[Your Name]**’s curated collection of data analysis projects using Jupyter Notebooks. Each project demonstrates a different analytical domain and methodology.
+**Dax Virani**’s curated collection of data analysis projects using Jupyter Notebooks. Each project demonstrates a different analytical domain and methodology.
 
 ---
 
