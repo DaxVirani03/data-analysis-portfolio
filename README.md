@@ -23,7 +23,7 @@ Click into each folder for notebooks, README, and data.
 ## ⚙️ Setup Instructions
 
 ```bash
-git clone https://github.com/yourusername/data-analysis-portfolio.git
+git clone https://github.com/DaxVirani03/data-analysis-portfolio.git
 cd data-analysis-portfolio
 pip install -r requirements.txt
 
